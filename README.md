@@ -29,3 +29,8 @@ com.fasterxml.jackson.datatype
     <groupId>com.fasterxml.jackson.datatype</groupId>
     <artifactId>jackson-datatype-jsr310</artifactId>
 </dependency>
+
+##Crear una base de datos 
+Crear la base de datos con el nombre dbJWT
+
+##Configurar 
