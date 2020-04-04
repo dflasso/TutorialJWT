@@ -1,4 +1,5 @@
 # TutorialJWT
+
 ## Introducción
 En el presente repositorio se desarrollo un aplicativo usando 
 Spring Boot + Spring Security + JWT + MySQL
@@ -34,3 +35,6 @@ com.fasterxml.jackson.datatype
 Crear la base de datos con el nombre dbJWT
 
 ##Configurar 
+
+##Basado en 
+https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/
