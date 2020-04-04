@@ -31,10 +31,10 @@ com.fasterxml.jackson.datatype
     <artifactId>jackson-datatype-jsr310</artifactId>
 </dependency>
 
-##Crear una base de datos 
+## Crear una base de datos 
 Crear la base de datos con el nombre dbJWT
 
-##Configurar 
+## Configurar 
 
-##Basado en 
+## Basado en 
 https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/
